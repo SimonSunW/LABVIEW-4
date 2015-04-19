@@ -1,5 +1,3 @@
-# LABVIEW
-This consists of all LabVIEW Scripts I have done for Fun.
 
 
 Procedure to use this VI:
